@@ -1,4 +1,4 @@
-# Talk History
+# Talk Histories
 
 ## Intro
 <p align="justify">
