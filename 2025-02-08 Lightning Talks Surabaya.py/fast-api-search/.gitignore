@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+*.env
+!.env.example
+
+# Dependency directories
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# Logs and databases
+logs/
+*.log
+*.sqlite3
+*.db
+
+# Pytest / Coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Docker / Kubernetes
+docker-compose.override.yml
+.envrc
+.venv/
+
+# OpenSearch or Elasticsearch dumps
+opensearch-dumps/
+opensearch_backup/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
